@@ -29,7 +29,7 @@
     "iltorb": "1.0.13",
     "lru-cache": "4.0.2",
     "multipipe": "1.0.2",
-    "node-zopfli": "2.0.2",
+    "node-zopfli": "https://github.com/pntripathi9417/node-zopfli.git",
     "on-headers": "1.0.1",
     "stream-buffers": "3.0.1",
     "vary": "1.1.1"
